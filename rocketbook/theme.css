@@ -1,0 +1,19 @@
+.option {
+	background-color: #e9e9e9;
+}
+
+table.options, table.args {
+	width: 100%;
+}
+
+table.args thead, table.options thead {
+    display: none;
+}
+
+b.args, b.options {
+	display: block;
+	font-size: 1.2em;
+	margin-bottom: 5px;
+	margin-left: -6px;
+	padding: 4px;
+}
